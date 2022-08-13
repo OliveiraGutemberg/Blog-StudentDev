@@ -1,0 +1,19 @@
+<h2>Usuarios:</h2>
+<hr>
+<a href="/users/registro"><button class="btn btn-success">Novo usuario</button></a>
+<hr>
+{{#each users}}
+<div class="card mt-2">
+    <div class="card-body">
+            <h6>Nome: {{nome}}</h6>
+            <h6>Email: {{email}}</h6>
+            
+            <form action="/admin/users/deletar" method="post">
+                <input type="hidden" name="id" value="{{_id}}">
+                <button type="submit" class="btn btn-danger mt-2">Deletar usuario</button>
+            </form>
+    </div>
+</div>
+{{else}}
+
+{{/each}}
