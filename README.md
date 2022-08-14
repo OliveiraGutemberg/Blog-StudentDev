@@ -18,7 +18,7 @@
 </h1>
 
 <h1>
-    <img alt="Readme" title="Readme" src="./img/Posts.jpg">
+    <img alt="Readme" title="Readme" src="./img/Posts.JPG">
 </h1>
 
 <h1>
