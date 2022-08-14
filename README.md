@@ -9,27 +9,28 @@
 - [x] Autenticação de usuarios;
 - [x] Criação, leitura, edição e exclusão de Postagens e Categorias de postagens;
 - [x] Rotas restritas à administradores;
-- [x] Componentes e Helpers(Handlebars)
+- [x] Componentes e Helpers(Handlebars);
+- [x] API;
 - [x] Banco de dados(MongoDB);
 
 <h1>
-    <img alt="Readme" title="Readme" src="./public/img/Home.png">
+    <img alt="Readme" title="Readme" src="./img/Home.png">
 </h1>
 
 <h1>
-    <img alt="Readme" title="Readme" src="./public/img/Posts.jpg">
+    <img alt="Readme" title="Readme" src="./img/Posts.jpg">
 </h1>
 
 <h1>
-    <img alt="Readme" title="Readme" src="./public/img/Login.jpg">
+    <img alt="Readme" title="Readme" src="./img/Login.jpg">
 </h1>
 
 <h1>
-    <img alt="Readme" title="Readme" src="./public/img/Cadastro.jpg">
+    <img alt="Readme" title="Readme" src="./img/Cadastro.jpg">
 </h1>
 
 <h1>
-    <img alt="Readme" title="Readme" src="./public/img/Categorias.jpg">
+    <img alt="Readme" title="Readme" src="./img/Categorias.jpg">
 </h1>
 
 # Prerequisites
