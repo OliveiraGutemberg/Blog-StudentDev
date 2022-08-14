@@ -26,7 +26,7 @@
 </h1>
 
 <h1>
-    <img alt="Readme" title="Readme" src="./img/cadastro.jpg">
+    <img alt="Readme" title="Readme" src="./img/Cadastro.jpg">
 </h1>
 
 <h1>
