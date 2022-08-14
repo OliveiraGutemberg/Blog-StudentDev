@@ -14,23 +14,23 @@
 - [x] Banco de dados(MongoDB);
 
 <h1>
-    <img alt="Readme" title="Readme" src="./img/Home.png">
+    <img alt="Readme" title="Readme" src="./img/Home.PNG">
 </h1>
 
 <h1>
-    <img alt="Readme" title="Readme" src="./img/Posts.jpg">
+    <img alt="Readme" title="Readme" src="./img/Posts.JPG">
 </h1>
 
 <h1>
-    <img alt="Readme" title="Readme" src="./img/Login.jpg">
+    <img alt="Readme" title="Readme" src="./img/Login.JPG">
 </h1>
 
 <h1>
-    <img alt="Readme" title="Readme" src="./img/Cadastro.jpg">
+    <img alt="Readme" title="Readme" src="./img/Cadastro.JPG">
 </h1>
 
 <h1>
-    <img alt="Readme" title="Readme" src="./img/Categorias.jpg">
+    <img alt="Readme" title="Readme" src="./img/Categorias.JPG">
 </h1>
 
 # Prerequisites
